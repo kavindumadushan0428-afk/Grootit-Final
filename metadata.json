@@ -1,0 +1,6 @@
+{
+  "name": "GROOTIT",
+  "description": "Creative technology studio bringing together visual storytelling, digital experiences, and intelligent solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
